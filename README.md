@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @escape2dead
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://twitter.com/ahmetoztrk1453
 
 <!---
